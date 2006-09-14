@@ -1,0 +1,9 @@
+Package: beta7
+Version: 0.5.5
+Date: 2005-10-19
+Title: Rodriguez et al. (2004) Differential Gene Expression by Memory/Effector T Helper Cells Bearing the Gut-Homing Receptor Integrin alpha4 beta7.
+Author: Jean Yang <jean@biostat.ucsf.edu>
+Maintainer: Jean Yang <jean@biostat.ucsf.edu>
+Description: Data from 6 gpr files aims to identify differential expressed genes between the beta 7+ and beta 7- memory T helper cells.
+License: LGPL
+Depends: R (>= 1.9.0)
