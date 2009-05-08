@@ -8,17 +8,17 @@ as 6 gpr files of the beta7 microarray experiment.
 }
 \usage{data(beta7)}
 \details{Each arrays(hybridization) involved
-$\beta 7+$ cell RNA from a single subject (labeled with one dye) and
-$\beta7-$ cell RNA from the same subject (labeled with the other dye).
+\eqn{\beta 7+} cell RNA from a single subject (labeled with one dye) and
+\eqn{\beta7-} cell RNA from the same subject (labeled with the other dye).
 Target RNA was hybridized to microarrays containing 23,184 probes
 including Operon Human version 2 set of 70-mer oligonucleotide probes and 1760
 controls spots (e.g. negative, positive and normalization controls
 spots). 
 }
 \references{
-M.W. Rodriguez, A. C. Paquet, Y.H. Yang and D. J. Erle (2004)
+M.W. Rodriguez, A. C. Paquet, Y.H. Yang and D. J. Erle,
 Differential gene expression by integrin beta7+and beta7-memory T helper
-cells BMC Immunology, pp. 5--13. 
+cells, \emph{BMC Immunology} 2004, pp. 5--13. 
 }
 \examples{
 data(beta7)  
